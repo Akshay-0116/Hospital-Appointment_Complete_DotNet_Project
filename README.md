@@ -12,7 +12,7 @@ Then use the npm start command to start the Project
 ![Screenshot (763)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/eefa2684-27d3-487b-a43e-986e6d931f2f)
 ![Screenshot (764)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/76ee3ba4-4db8-422e-bf7b-738ed4d23345)
 ![Screenshot (765)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/1df2e63a-6012-4ba2-a803-462fd73d4bd2)
-![Screenshot (766)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/b181e5ab-7048-46b1-93bb-faa17bf09e
+![Screenshot (766)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/4b72c330-cf3d-4fa3-9db0-01dd4fea35c4)
 ![Screenshot (767)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/ec991c1c-46fa-4d1d-a3a0-810b997404d1)
 68)
 ![Screenshot (768)](https://github.com/Akshay-0116/Hospital-Appointment_Complete_DotNet_Project/assets/94633013/0b655222-2413-4d47-a88c-55416179818e)
